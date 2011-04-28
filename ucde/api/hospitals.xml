@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locations type="array">
+	<location>
+		<id>1</id>
+		<type>Emergency</type>
+		<name>Sutter Hospital</name>
+		<hours>9:00AM - 9:00PM</hours>
+		<imageURL></imageURL>
+		<address>12345 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>2</id>
+		<type>Emergency</type>
+		<name>Some Other Hospital</name>
+		<hours>6:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>32189 Cutie St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>8242456556</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>3</id>
+		<type>Urgent Care</type>
+		<name>Student Health and Wellness Center</name>
+		<hours>11:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>54321 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>1</id>
+		<type>Emergency</type>
+		<name>Sutter Hospital</name>
+		<hours>9:00AM - 9:00PM</hours>
+		<imageURL></imageURL>
+		<address>12345 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>2</id>
+		<type>Emergency</type>
+		<name>Some Other Hospital</name>
+		<hours>6:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>32189 Cutie St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>8242456556</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>3</id>
+		<type>Urgent Care</type>
+		<name>Student Health and Wellness Center</name>
+		<hours>11:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>54321 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>1</id>
+		<type>Emergency</type>
+		<name>Sutter Hospital</name>
+		<hours>9:00AM - 9:00PM</hours>
+		<imageURL></imageURL>
+		<address>12345 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>2</id>
+		<type>Emergency</type>
+		<name>Some Other Hospital</name>
+		<hours>6:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>32189 Cutie St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>8242456556</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>3</id>
+		<type>Urgent Care</type>
+		<name>Student Health and Wellness Center</name>
+		<hours>11:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>54321 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>1</id>
+		<type>Emergency</type>
+		<name>Sutter Hospital</name>
+		<hours>9:00AM - 9:00PM</hours>
+		<imageURL></imageURL>
+		<address>12345 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>2</id>
+		<type>Emergency</type>
+		<name>Some Other Hospital</name>
+		<hours>6:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>32189 Cutie St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>8242456556</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>3</id>
+		<type>Urgent Care</type>
+		<name>Student Health and Wellness Center</name>
+		<hours>11:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>54321 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>1</id>
+		<type>Emergency</type>
+		<name>Sutter Hospital</name>
+		<hours>9:00AM - 9:00PM</hours>
+		<imageURL></imageURL>
+		<address>12345 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>2</id>
+		<type>Emergency</type>
+		<name>Some Other Hospital</name>
+		<hours>6:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>32189 Cutie St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>8242456556</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>3</id>
+		<type>Urgent Care</type>
+		<name>Student Health and Wellness Center</name>
+		<hours>11:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>54321 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>1</id>
+		<type>Emergency</type>
+		<name>Sutter Hospital</name>
+		<hours>9:00AM - 9:00PM</hours>
+		<imageURL></imageURL>
+		<address>12345 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>2</id>
+		<type>Emergency</type>
+		<name>Some Other Hospital</name>
+		<hours>6:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>32189 Cutie St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>8242456556</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>3</id>
+		<type>Urgent Care</type>
+		<name>Student Health and Wellness Center</name>
+		<hours>11:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>54321 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>1</id>
+		<type>Emergency</type>
+		<name>Sutter Hospital</name>
+		<hours>9:00AM - 9:00PM</hours>
+		<imageURL></imageURL>
+		<address>12345 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>2</id>
+		<type>Emergency</type>
+		<name>Some Other Hospital</name>
+		<hours>6:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>32189 Cutie St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>8242456556</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>3</id>
+		<type>Urgent Care</type>
+		<name>Student Health and Wellness Center</name>
+		<hours>11:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>54321 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>1</id>
+		<type>Emergency</type>
+		<name>Sutter Hospital</name>
+		<hours>9:00AM - 9:00PM</hours>
+		<imageURL></imageURL>
+		<address>12345 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>2</id>
+		<type>Emergency</type>
+		<name>Some Other Hospital</name>
+		<hours>6:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>32189 Cutie St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>8242456556</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>3</id>
+		<type>Urgent Care</type>
+		<name>Student Health and Wellness Center</name>
+		<hours>11:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>54321 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>1</id>
+		<type>Emergency</type>
+		<name>Sutter Hospital</name>
+		<hours>9:00AM - 9:00PM</hours>
+		<imageURL></imageURL>
+		<address>12345 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>2</id>
+		<type>Emergency</type>
+		<name>Some Other Hospital</name>
+		<hours>6:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>32189 Cutie St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>8242456556</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>3</id>
+		<type>Urgent Care</type>
+		<name>Student Health and Wellness Center</name>
+		<hours>11:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>54321 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>1</id>
+		<type>Emergency</type>
+		<name>Sutter Hospital</name>
+		<hours>9:00AM - 9:00PM</hours>
+		<imageURL></imageURL>
+		<address>12345 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>2</id>
+		<type>Emergency</type>
+		<name>Some Other Hospital</name>
+		<hours>6:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>32189 Cutie St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>8242456556</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>3</id>
+		<type>Urgent Care</type>
+		<name>Student Health and Wellness Center</name>
+		<hours>11:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>54321 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>1</id>
+		<type>Emergency</type>
+		<name>Sutter Hospital</name>
+		<hours>9:00AM - 9:00PM</hours>
+		<imageURL></imageURL>
+		<address>12345 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>2</id>
+		<type>Emergency</type>
+		<name>Some Other Hospital</name>
+		<hours>6:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>32189 Cutie St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>8242456556</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>3</id>
+		<type>Urgent Care</type>
+		<name>Student Health and Wellness Center</name>
+		<hours>11:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>54321 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>1</id>
+		<type>Emergency</type>
+		<name>Sutter Hospital</name>
+		<hours>9:00AM - 9:00PM</hours>
+		<imageURL></imageURL>
+		<address>12345 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>2</id>
+		<type>Emergency</type>
+		<name>Some Other Hospital</name>
+		<hours>6:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>32189 Cutie St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>8242456556</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>3</id>
+		<type>Urgent Care</type>
+		<name>Student Health and Wellness Center</name>
+		<hours>11:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>54321 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>1</id>
+		<type>Emergency</type>
+		<name>Sutter Hospital</name>
+		<hours>9:00AM - 9:00PM</hours>
+		<imageURL></imageURL>
+		<address>12345 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>2</id>
+		<type>Emergency</type>
+		<name>Some Other Hospital</name>
+		<hours>6:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>32189 Cutie St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>8242456556</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>3</id>
+		<type>Urgent Care</type>
+		<name>Student Health and Wellness Center</name>
+		<hours>11:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>54321 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>1</id>
+		<type>Emergency</type>
+		<name>Sutter Hospital</name>
+		<hours>9:00AM - 9:00PM</hours>
+		<imageURL></imageURL>
+		<address>12345 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>2</id>
+		<type>Emergency</type>
+		<name>Some Other Hospital</name>
+		<hours>6:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>32189 Cutie St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>8242456556</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>3</id>
+		<type>Urgent Care</type>
+		<name>Student Health and Wellness Center</name>
+		<hours>11:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>54321 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>1</id>
+		<type>Emergency</type>
+		<name>Sutter Hospital</name>
+		<hours>9:00AM - 9:00PM</hours>
+		<imageURL></imageURL>
+		<address>12345 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>2</id>
+		<type>Emergency</type>
+		<name>Some Other Hospital</name>
+		<hours>6:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>32189 Cutie St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>8242456556</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+	<location>
+		<id>3</id>
+		<type>Urgent Care</type>
+		<name>Student Health and Wellness Center</name>
+		<hours>11:00AM - 10:00PM</hours>
+		<imageURL></imageURL>
+		<address>54321 Fake St.</address>
+		<city>Davis CA</city>
+		<country>United States</country>
+		<phone>5305551234</phone>
+		<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>
+	</location>
+</locations>
+

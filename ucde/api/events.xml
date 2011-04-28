@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events type="array">
+	<event>
+		<id>1</id>
+		<type>Campus Celebration</type>
+		<name>Picnic Day</name>
+		<date>2011-03-28</date>
+		<time>9:00AM - 9:00PM</time>
+		<imageURL>http://localhost/~william/antoine.jpg</imageURL>
+		<description>Malesuada quis, egestas quis, wisi. Donec ac sapien. Ut orci. Duis ultricies, metus a feugiat porttitor, dolor mauris convallis est, quis mattis lacus ligula eu augue. Sed facilisis. Morbi lorem mi, tristique vitae, sodales eget, hendrerit sed, erat. Vestibulum eget purus vitae eros ornare adipiscing. Vivamus nec quam. Integer vestibulum malesuada libero. Sed vehicula fermentum leo. In condimentum. Nullam wisi arcu, suscipit consectetuer.
+		Vestibulum imperdiet nonummy sem. Vivamus sit amet erat nec turpis tempus consequat. Praesent malesuada. Donec vitae dolor. Donec at lacus ac mi vehicula bibendum. Donec feugiat tempor libero. Nam uut, massa. Maecenas vitae ante et lacus aliquam hendrerit. Curabitur nunc eros, euismod in, convallis at, vehicula sed consectetuer posuere, eros mauris dignissim diam, pretium sed pede suscipit: Adiam condimentum purus, in consectetuer Proin in sapien. Fusce urna magna,neque eget lacus. Maecenas felis nunc, aliquam ac, consequat vitae, feugiat at, blandit vitae, euismod vel, nunc. Aenean ut erat ut nibh commodo suscipit. Maecenas non quam. Cras erat. Aliquam pede. vulputate eu, estmorbi tristique senectus et netus et male. Aliquam pede. Proin neque est, sagittis at, semper vitaet. Ut orci. Duis ultricies, metus a feugiat porttitor, dolor mauris convallis est, quis mattis.</description>
+		<location>
+			<id></id>
+			<name>The Quad</name>
+			<type></type>
+			<hours>Open All Day</hours>
+			<address>12345 Fake St.</address>
+			<city>Davis CA</city>
+			<country>United States</country>
+			<longitude></longitude>
+			<latitude></latitude>
+			<phone>5305551234</phone>
+			<imageURL></imageURL>
+			<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>	
+		</location>
+	</event>
+	<event>
+		<id>2</id>
+		<type>Campus Celebration</type>
+		<name>Awesome Day</name>
+		<date>2011-03-08</date>
+		<time>9:00AM - 9:00PM</time>
+		<imageURL>http://localhost/~william/antoine.jpg</imageURL>
+		<description>An awesome day for all!</description>
+		<location>
+			<id></id>
+			<name>The Quad</name>
+			<type></type>
+			<hours>Open All Day</hours>
+			<address>12345 Fake St.</address>
+			<city>Davis CA</city>
+			<country>United States</country>
+			<longitude></longitude>
+			<latitude></latitude>
+			<phone>5305551234</phone>
+			<imageURL></imageURL>
+			<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>	
+		</location>
+	</event>
+	<event>
+		<id>3</id>
+		<type>Campus Celebration</type>
+		<name>Uber Day</name>
+		<date>2011-05-28</date>
+		<time>9:00AM - 9:00PM</time>
+		<imageURL>http://localhost/~william/antoine.jpg</imageURL>
+		<location>
+			<id></id>
+			<name>The Quad</name>
+			<type></type>
+			<hours>Open All Day</hours>
+			<address>12345 Fake St.</address>
+			<city>Davis CA</city>
+			<country>United States</country>
+			<longitude></longitude>
+			<latitude></latitude>
+			<phone>5305551234</phone>
+			<imageURL></imageURL>
+			<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>	
+		</location>
+	</event>
+	<event>
+		<id>4</id>
+		<type>Campus Celebration</type>
+		<name>Super Day</name>
+		<date>2011-05-28</date>
+		<time>9:00AM - 9:00PM</time>
+		<imageURL>http://localhost/~william/antoine.jpg</imageURL>
+		<description>A super day for all!</description>
+		<location>
+			<id></id>
+			<name>The Quad</name>
+			<type></type>
+			<hours>Open All Day</hours>
+			<address>12345 Fake St.</address>
+			<city>Davis CA</city>
+			<country>United States</country>
+			<longitude></longitude>
+			<latitude></latitude>
+			<phone>5305551234</phone>
+			<imageURL></imageURL>
+			<mapsURL>http://maps.google.com/maps?q=cupertino</mapsURL>	
+		</location>
+
+	</event>
+</events>
+

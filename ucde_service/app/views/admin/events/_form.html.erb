@@ -1,0 +1,11 @@
+<% semantic_form_for @event do |form| %>
+	<%= form.inputs do %>
+	  <%= form.input :name %>
+	  <%= form.input :description %>
+	  <%= form.input :website %>
+	  <%= form.input :date %>
+	<% end %>
+	
+	<%= form.commit_button %>
+	
+<% end %>

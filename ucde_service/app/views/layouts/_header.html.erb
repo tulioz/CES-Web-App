@@ -1,0 +1,10 @@
+<header>
+	<% logo = image_tag("banner.png", :alt => "UCDE Control Panel", :class => "round") %>
+	<%= link_to logo, root_path %>
+	<nav class="round">
+		<ul>
+			<li><%= link_to "Home", root_path %>
+			<%= render 'devise/menu/login_items' %>
+		</ul>
+	</nav>
+</header>
