@@ -7,7 +7,7 @@ Ucdeservice::Application.routes.draw do
       resources :types, :only => [:index, :show] do
         resources :locations, :only => [:index, :show]
       end
-      
+      resources :locations, :only => [:index, :show]
       resources :events, :only => [:index, :show]
       resources :offers, :only => [:index, :show]
     end
