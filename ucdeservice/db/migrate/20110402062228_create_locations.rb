@@ -9,7 +9,6 @@ class CreateLocations < ActiveRecord::Migration
       t.string :latitude
       t.string :longitude
       t.text :description
-      t.integer :event_id
       t.integer :type_id
       t.boolean :featured
       t.timestamps

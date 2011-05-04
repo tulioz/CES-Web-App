@@ -1,5 +1,5 @@
 class Event < ActiveRecord::Base
-  has_many :locations
+  belongs_to :location
   
   validates :name, :presence => true,
                    :length => { :maximum => 50 }                                         

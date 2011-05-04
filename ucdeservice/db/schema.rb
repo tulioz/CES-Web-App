@@ -10,7 +10,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20110413034537) do
+ActiveRecord::Schema.define(:version => 20110502234444) do
 
   create_table "api_keys", :force => true do |t|
     t.datetime "created_at"
@@ -38,9 +38,16 @@ ActiveRecord::Schema.define(:version => 20110413034537) do
     t.string   "latitude"
     t.string   "longitude"
     t.text     "description"
-    t.integer  "event_id"
     t.integer  "type_id"
     t.boolean  "featured"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "offers", :force => true do |t|
+    t.string   "name"
+    t.text     "description"
+    t.integer  "location_id"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

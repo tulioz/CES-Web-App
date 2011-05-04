@@ -9,19 +9,6 @@ namespace :db do
                     :password_confirmation => '111111') 
       Type.create!(:name => "Restaurants")                                 
 
-      eventSuffixes = ["Day", "Celebration", "Seminar", "Conference"];
-
-      25.times do
-        e = {
-          :name => "#{Faker::Lorem.words(2)} #{eventSuffixes.rand.to_s}",
-          :description => Faker::Lorem.paragraphs(1),
-          :website => "#{Faker::Internet.domain_name()}#{Faker::Internet.domain_suffix()}",
-          :date => (1..200).to_a.rand.days.from_now
-        }
-
-        Event.create!(e)
-      end    
-
       restaurantCategories = ["American", "Chinese", "Japanese", "French",
                               "Italian", "Fast Food", "Indian", "Thai",
                               "Cafe", "Deli", "Cajun"]
@@ -38,16 +25,41 @@ namespace :db do
           :longitude => '1000000',
           :description => Faker::Company.catch_phrase(),
           :type_id => 1,
-          :event_id => Event.all.rand.id,
           :featured => rand(2)
         }
       
         Location.create!(r)
       end
 
+      offerNames = ["25% off a great meal", "10% off a nice breakfast", "Buy one burger, get a drink free",
+        "Buy one sandwich, get one half off!"]
+        
+      offerDescriptions = ["What a great deal!", "What an amazing value", "This amazing value available until 6/29/11 only"]
 
+      10.times do
+        o = {
+          :name => "Test Deal",
+          :description => "#{offerNames.rand.to_s}. #{offerDescriptions.rand.to_s}!",
+          :location_id => Location.all.rand.id
+        }
+        
+        Offer.create!(o)
+      end
 
-      
+      eventSuffixes = ["Day", "Celebration", "Seminar", "Conference"];
+
+      25.times do
+        e = {
+          :name => "#{Faker::Lorem.words(2)} #{eventSuffixes.rand.to_s}",
+          :description => Faker::Lorem.paragraphs(1),
+          :website => "#{Faker::Internet.domain_name()}#{Faker::Internet.domain_suffix()}",
+          :date => (1..200).to_a.rand.days.from_now,
+          :location_id => Location.all.rand.id
+        }
+
+        Event.create!(e)
+      end
+
     end
 end
                               

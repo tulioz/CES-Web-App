@@ -9,6 +9,7 @@ Ucdeservice::Application.routes.draw do
       end
       
       resources :events, :only => [:index, :show]
+      resources :offers, :only => [:index, :show]
     end
   end
 

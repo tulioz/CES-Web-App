@@ -1,6 +1,7 @@
 class Location < ActiveRecord::Base
   belongs_to :type
-  belongs_to :event
+  has_many :events
+  has_many :offers
   
   validates :name, :presence => true,
                    :length => { :maximum => 50 }
